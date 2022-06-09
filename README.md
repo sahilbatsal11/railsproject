@@ -1,5 +1,5 @@
 # README
-complete ruby on Rails Developer
+complete ruby on Rails Developer by person
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
